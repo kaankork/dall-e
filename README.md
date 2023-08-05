@@ -21,4 +21,4 @@ Paper: https://arxiv.org/pdf/2102.12092.pdf
 
 
 ## Test Cases
-- [ ] One half of a face portrait to test how it generates the other half of the image
+- [ ] Half of a portrait to test how it generates the other half of the image - politicians? Marvel characters? 
